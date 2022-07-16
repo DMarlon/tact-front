@@ -7,7 +7,7 @@ Tact - Contact List
 ### Function 01:
 - List contacts
 
-## Dependencias 
+## Dependencies 
 
 [![Docker](https://img.shields.io/badge/Docker-0395bf?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -35,7 +35,7 @@ If you just want to run the project, just download the [Dockerfile](Dockerfile) 
 
 
 ## 🔖 License
-[![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
+[![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
 ### Support or contact
 
